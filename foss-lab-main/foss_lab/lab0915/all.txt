@@ -1,0 +1,6 @@
+STDERR: Hello Seorin 200 
+STDOUT: Hello Seorin 200 
+STDOUT: Hello Seorin 777 
+STDOUT: Hello Seorin 666 
+STDERR: Hello Seorin 222 
+STDOUT: Hello Seorin 222 

@@ -1,0 +1,20 @@
+total 60
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 a
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 aa
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 aaa
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 b
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 bb
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 bbb
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 c
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 cc
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 ccc
+-rw-r--r-- 1 oss105 foss   143 10월  6 11:13 expansion.sh
+-rw-r--r-- 1 oss105 foss   166 10월  6 14:15 fn.sh
+-rw-r--r-- 1 oss105 foss   100 10월  6 14:22 lsresult
+-rw-r--r-- 1 oss105 foss   923 10월  6 14:20 lsresult2
+-rw-r--r-- 1 oss105 foss   112 10월  6 14:23 lsresult999
+drwxr-xr-x 2 oss105 foss 36864 10월  6 11:35 mid
+-rw-r--r-- 1 oss105 foss     0 10월  6 14:26 qqq
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 rrr
+-rw-r--r-- 1 oss105 foss    17 10월  6 10:48 test
+-rw-r--r-- 1 oss105 foss     0 10월  6 10:42 zzz
